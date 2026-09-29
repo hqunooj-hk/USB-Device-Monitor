@@ -1,0 +1,16 @@
+USB Device Monitor - Test Evidence
+
+Monitoring started successfully.
+
+Detected USB Device:
+Vendor ID: 22d9
+Product ID: 2764
+
+Test Events:
+[CONNECTED] Vendor ID: 22d9, Product ID: 2764
+[DISCONNECTED] Vendor ID: 22d9, Product ID: 2764
+[CONNECTED] Vendor ID: 22d9, Product ID: 2764
+
+Result:
+The USB Device Monitor successfully detected USB device connection
+and disconnection events.
